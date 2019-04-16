@@ -1,0 +1,9 @@
+<map id="VieVS::Scan::calcScore_secondPart" name="VieVS::Scan::calcScore_secondPart">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_source.html#a8b29caff11714b25e6550b04fe1e4126" title="getter of parameter object " alt="" coords="231,5,401,32"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_source.html#a0202d8550fcd0fa9399520cdf4fa07d6" title="geter for number of already scheduled scans to this source " alt="" coords="227,56,405,83"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_vie_v_s___object.html#a633f6aeefc0eb1e39ed55c734311a6e7" title="get object id " alt="" coords="241,107,391,149"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_scan.html#a3d547faa3e25075f0b742fc5351f3046" title="mean of the weight factors for each participating station " alt="" coords="245,173,387,214"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_network.html#aecb9d69341317dc24e1fd74e13fde620" title="get all stations in this network " alt="" coords="221,239,411,265"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_scan.html#a24972c39777aa1345199544d3248fb9a" title="mean of the weight factors for each participating baselines " alt="" coords="245,290,387,331"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_network.html#ade4586e553465f1c022518388764386b" title="get all baselines " alt="" coords="217,356,415,383"/>
+</map>

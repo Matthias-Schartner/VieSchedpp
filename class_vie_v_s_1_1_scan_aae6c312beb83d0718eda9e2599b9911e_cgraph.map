@@ -1,0 +1,5 @@
+<map id="VieVS::Scan::prepareForScanEnd" name="VieVS::Scan::prepareForScanEnd">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_scan_times.html#ac63d909f6b4d2ab30d02c1e8f03fc2b4" title="get observing time " alt="" coords="275,5,522,32"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_scan.html#a7ada94ff94facbae50f3ced0acdcc8ac" title="delete the pointing vector at position idx and all its corresponding times and observations ..." alt="" coords="304,56,493,83"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_scan.html#a36770265eb6388a35d5ba617f65fa692" title="checks a scan with rigorous models " alt="" coords="302,107,495,133"/>
+</map>

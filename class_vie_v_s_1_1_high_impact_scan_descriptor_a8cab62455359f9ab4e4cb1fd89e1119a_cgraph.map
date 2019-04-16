@@ -1,0 +1,14 @@
+<map id="VieVS::HighImpactScanDescriptor::possibleHighImpactScans" name="VieVS::HighImpactScanDescriptor::possibleHighImpactScans">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_pointing_vector.html#ab5e79ca4cb03bc2ddd1af20dcceaaa10" title="sets time for which azimth and elevation is calculated " alt="" coords="535,5,687,46"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_network.html#acb913d06560b50cf06e3f183855e6b7a" title="get station per id " alt="" coords="279,88,462,115"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_station.html#abcf70652615ccf01be32b67a8ce6fa14" title="calculation of azimuth, elevation, hour angle and declination with lookup tables " alt="" coords="287,139,455,181"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_subcon.html#a7e8c4a4ef6331c1f7adabcc9291cad9f" title="create possible visible scan to a source " alt="" coords="277,237,464,264"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_vie_v_s___object.html#a633f6aeefc0eb1e39ed55c734311a6e7" title="get object id " alt="" coords="536,70,685,111"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_source.html#a8b29caff11714b25e6550b04fe1e4126" title="getter of parameter object " alt="" coords="525,136,696,163"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_vie_v_s___object.html#ac4fa279c7da1c7af8342c31eb90e28bd" title="object id string " alt="" coords="757,314,907,355"/>
+<area shape="rect" id="node9" href="$class_vie_v_s_1_1_vie_v_s___named_object.html#a2f23922726dcdce18f03a06b3b94910f" title="get object name " alt="" coords="515,238,706,279"/>
+<area shape="rect" id="node10" href="$class_vie_v_s_1_1_source.html#a0202d8550fcd0fa9399520cdf4fa07d6" title="geter for number of already scheduled scans to this source " alt="" coords="521,304,700,331"/>
+<area shape="rect" id="node11" href="$class_vie_v_s_1_1_source.html#a7633fdd7416544da0bcf6511475c1fc6" title="looks for last scan time " alt="" coords="513,355,709,381"/>
+<area shape="rect" id="node12" href="$class_vie_v_s_1_1_network.html#aecb9d69341317dc24e1fd74e13fde620" title="get all stations in this network " alt="" coords="515,405,706,432"/>
+<area shape="rect" id="node13" href="$class_vie_v_s_1_1_subcon.html#aac4f148c3f566da08f96f0a0ff2e3a02" title="add a single source scan to subcon " alt="" coords="525,456,696,483"/>
+</map>

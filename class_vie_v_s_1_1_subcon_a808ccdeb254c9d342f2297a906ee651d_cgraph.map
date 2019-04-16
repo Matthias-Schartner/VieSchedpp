@@ -1,0 +1,12 @@
+<map id="VieVS::Subcon::calcAllBaselineDurations" name="VieVS::Subcon::calcAllBaselineDurations">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_scan.html#aea279ddbd5f248009359c5fd1506bb24" title="calculates the scan durations per observation " alt="" coords="262,150,461,191"/>
+<area shape="rect" id="node10" href="$class_vie_v_s_1_1_scan.html#ada9f6d5fa07db2722603c375fab09e43" title="getter for source id " alt="" coords="274,216,449,243"/>
+<area shape="rect" id="node11" href="$class_vie_v_s_1_1_vie_v_s___object.html#ac4fa279c7da1c7af8342c31eb90e28bd" title="object id string " alt="" coords="287,267,436,309"/>
+<area shape="rect" id="node3" href="$sofa_8h.html#a718cb20123915d387bc64550d8950019" title="iauGmst82" alt="" coords="572,5,657,32"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_station.html#a5293ae14178594e11a5bdf1923a7ae7e" title="getter for equipment information " alt="" coords="531,56,698,83"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_equipment.html#a671b90ef30e617e3ea3d94a2bcf4bdd5" title="getter function for antenna SEFD information " alt="" coords="519,107,710,133"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_station.html#aaf8618b23756c485e6553c716ffb66c3" title="getter for parameters " alt="" coords="529,157,700,184"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_baseline.html#a921fae7128d80abe1314735b74aa3e9f" title="getter for current parameters " alt="" coords="509,208,720,235"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_station.html#a3281cca2c7ec11635b866bc359aeaad8" title="getter for wait times " alt="" coords="518,259,711,285"/>
+<area shape="rect" id="node9" href="$class_vie_v_s_1_1_vie_v_s___object.html#a633f6aeefc0eb1e39ed55c734311a6e7" title="get object id " alt="" coords="540,310,689,351"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="VieVS::ScanTimes::alignStartTimes" name="VieVS::ScanTimes::alignStartTimes">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_scan_times.html#a3ed06e25f7d4e2a50aad461a7f4c7a9b" title="remove idle times " alt="" coords="268,43,452,84"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_scan_times.html#a17616a8f1a1d50f12d4cd85f32bc6a1e" title="get preob duration " alt="" coords="530,7,723,48"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_scan_times.html#a27b513ac249e136012a6b96e707f86cf" title="get total observing duration " alt="" coords="517,93,736,135"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_scan_times.html#ac63d909f6b4d2ab30d02c1e8f03fc2b4" title="get observing time " alt="" coords="785,130,1031,157"/>
+<area shape="rect" id="node6" href="$namespace_vie_v_s_1_1util.html#a908347aab14b0306324be12df360bb7e" title="indices of sorted vector elements " alt="" coords="280,210,440,237"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_scan_times.html#a20273e4a44a97a618d1e03a206e52ee4" title="get slew time " alt="" coords="251,261,469,287"/>
+</map>

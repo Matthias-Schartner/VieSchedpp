@@ -1,0 +1,9 @@
+<map id="VieVS::Scan::calcObservationDuration" name="VieVS::Scan::calcObservationDuration">
+<area shape="rect" id="node2" href="$sofa_8h.html#a718cb20123915d387bc64550d8950019" title="iauGmst82" alt="" coords="316,5,401,32"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_station.html#a5293ae14178594e11a5bdf1923a7ae7e" title="getter for equipment information " alt="" coords="275,56,442,83"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_equipment.html#a671b90ef30e617e3ea3d94a2bcf4bdd5" title="getter function for antenna SEFD information " alt="" coords="263,107,454,133"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_station.html#aaf8618b23756c485e6553c716ffb66c3" title="getter for parameters " alt="" coords="273,157,444,184"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_baseline.html#a921fae7128d80abe1314735b74aa3e9f" title="getter for current parameters " alt="" coords="253,208,464,235"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_station.html#a3281cca2c7ec11635b866bc359aeaad8" title="getter for wait times " alt="" coords="262,259,455,285"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_vie_v_s___object.html#a633f6aeefc0eb1e39ed55c734311a6e7" title="get object id " alt="" coords="284,310,433,351"/>
+</map>

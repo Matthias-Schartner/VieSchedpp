@@ -1,0 +1,10 @@
+<map id="VieVS::Station::getCurrentTime" name="VieVS::Station::getCurrentTime">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_station_endposition.html#abe659a1ecd5810d3b921441d2acf9752" title="check if scan is possible for this station " alt="" coords="296,5,472,46"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_scan.html#a0032f6cebcf257dfef3faacb688f7f4c" title="adds observation to scan in tagalong mode " alt="" coords="295,70,473,111"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_scheduler.html#aaefa26f5db885c88ad8cf9f2d00e1cf0" title="start tagalong mode " alt="" coords="262,136,506,163"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_scheduler.html#a6f486b216414097fae4556c5288be561" title="start scan selection between scans " alt="" coords="289,187,479,229"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_station_endposition.html#aabcdaa5c2bd0318a63206dd9e707af9c" title="check if scan is possible for all stations " alt="" coords="555,5,731,46"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_scheduler.html#aa11cc985b6d47dc44b0fde718a01a0d4" title="main function that starts the scheduling " alt="" coords="563,195,722,221"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_vie_schedpp.html#a4a08bfdb148b554362453409215233c6" title="start VieSched++ " alt="" coords="779,195,941,221"/>
+<area shape="rect" id="node9" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main function " alt="" coords="989,195,1040,221"/>
+</map>

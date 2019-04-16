@@ -1,0 +1,9 @@
+<map id="VieVS::Subcon::generateScore" name="VieVS::Subcon::generateScore">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_vie_v_s___object.html#ac4fa279c7da1c7af8342c31eb90e28bd" title="object id string " alt="" coords="305,5,455,46"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_subcon.html#ade60be8f2b8c2b2e27c6e5105d2ad499" title="precalculate all necessary parameters to generate scores " alt="" coords="283,71,477,97"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_scan.html#ada9f6d5fa07db2722603c375fab09e43" title="getter for source id " alt="" coords="293,121,467,148"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_scan.html#a33a7c23e792f7404423836bd1da160a3" title="getter to get all scan times " alt="" coords="301,172,459,199"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_scan_times.html#ac63d909f6b4d2ab30d02c1e8f03fc2b4" title="get observing time " alt="" coords="257,223,503,249"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_vie_v_s___object.html#a633f6aeefc0eb1e39ed55c734311a6e7" title="get object id " alt="" coords="305,274,455,315"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_scan.html#ab773de912bfcf53820b6d2fd25c7b993" title="calculates the score of a scan " alt="" coords="299,340,461,367"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="VieVS::Station::setCurrentPointingVector" name="VieVS::Station::setCurrentPointingVector">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_initializer.html#ad34428852d92704f3efa9a56aead1761" title="initializes all stations with settings from VieSchedpp.xml file " alt="" coords="544,5,669,46"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_skd_parser.html#addf805bde1bc64528af752879640a23d" title="create scans " alt="" coords="269,63,441,105"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_scheduler.html#aaefa26f5db885c88ad8cf9f2d00e1cf0" title="start tagalong mode " alt="" coords="233,129,477,156"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_scheduler.html#a6f486b216414097fae4556c5288be561" title="start scan selection between scans " alt="" coords="260,181,449,222"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_vie_schedpp.html#a4a08bfdb148b554362453409215233c6" title="start VieSched++ " alt="" coords="736,67,899,93"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main function " alt="" coords="947,67,997,93"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_skd_parser.html#a73d3e3ea04ba448a667f4bc72d4019b4" title="read skd file " alt="" coords="526,71,687,97"/>
+<area shape="rect" id="node9" href="$class_vie_v_s_1_1_scheduler.html#aa11cc985b6d47dc44b0fde718a01a0d4" title="main function that starts the scheduling " alt="" coords="527,155,686,181"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="VieVS::Subcon::calcAllScanDurations" name="VieVS::Subcon::calcAllScanDurations">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_scan.html#ada9f6d5fa07db2722603c375fab09e43" title="getter for source id " alt="" coords="253,5,427,32"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_scan.html#afc6aabaf7849f166cf0f0498fa13e1bb" title="calculates the total scan duration per station " alt="" coords="249,56,431,83"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_scan.html#a33a7c23e792f7404423836bd1da160a3" title="getter to get all scan times " alt="" coords="261,107,419,133"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_scan.html#acc289cbd286ecf95cc7433f11b663e88" title="getter for number of stations " alt="" coords="263,157,417,184"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_scan.html#aa14d5f36efb1fd84ff839daa46e36a07" title="getter for station id for one index " alt="" coords="253,208,427,235"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_station.html#a3281cca2c7ec11635b866bc359aeaad8" title="getter for wait times " alt="" coords="243,259,437,285"/>
+<area shape="rect" id="node9" href="$class_vie_v_s_1_1_scan.html#a7ada94ff94facbae50f3ced0acdcc8ac" title="delete the pointing vector at position idx and all its corresponding times and observations ..." alt="" coords="245,309,435,336"/>
+<area shape="rect" id="node10" href="$class_vie_v_s_1_1_vie_v_s___object.html#ac4fa279c7da1c7af8342c31eb90e28bd" title="object id string " alt="" coords="265,361,415,402"/>
+<area shape="rect" id="node4" href="$namespace_vie_v_s_1_1util.html#ab4d40ce9164d54dd82aeb6d68b4e14c6" title="calculate duration between two time points " alt="" coords="485,56,624,83"/>
+</map>

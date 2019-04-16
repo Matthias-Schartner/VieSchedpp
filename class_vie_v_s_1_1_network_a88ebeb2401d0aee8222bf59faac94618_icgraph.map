@@ -1,0 +1,35 @@
+<map id="VieVS::Network::getNSta" name="VieVS::Network::getNSta">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_initializer.html#ad34428852d92704f3efa9a56aead1761" title="initializes all stations with settings from VieSchedpp.xml file " alt="" coords="1027,74,1152,116"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_initializer.html#a345996cb08cfbd8db817980aba99fd80" title="applies all multi scheduling parameters to the initializer " alt="" coords="993,170,1186,212"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_initializer.html#aa7c70c158944e31f0ee218d536d8f106" title="number of minutes where source is visible " alt="" coords="277,1229,395,1270"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_skd_parser.html#addf805bde1bc64528af752879640a23d" title="create scans " alt="" coords="250,1294,422,1336"/>
+<area shape="rect" id="node9" href="$class_vie_v_s_1_1_operation_notes.html#ab89bb750ca2faaaee4a8bab4e251d866" title="write operation notes file " alt="" coords="513,600,671,641"/>
+<area shape="rect" id="node12" href="$class_vie_v_s_1_1_operation_notes.html#ad4ab2351cc6c2561d386da3949df58de" title="baseline dependent statistics of the schedule " alt="" coords="248,501,424,542"/>
+<area shape="rect" id="node15" href="$class_vie_v_s_1_1_operation_notes.html#a8aea3e614a1ca8c31c1425e535e71f3a" title="list first and last observations in skd style " alt="" coords="257,748,415,804"/>
+<area shape="rect" id="node16" href="$class_vie_v_s_1_1_operation_notes.html#aa0f149e0b98e752fbc609ef2f908fa4c" title="number of stations per scan statistics " alt="" coords="257,370,415,412"/>
+<area shape="rect" id="node17" href="$class_vie_v_s_1_1_operation_notes.html#a9a6116eb555eee6c325e69024d0869cb" title="source dependent statistics of the schedule " alt="" coords="233,436,439,477"/>
+<area shape="rect" id="node18" href="$class_vie_v_s_1_1_operation_notes.html#a9b7f6e11620a61b0f329a547127adfcf" title="time spend per station " alt="" coords="257,828,415,869"/>
+<area shape="rect" id="node19" href="$class_vie_v_s_1_1_operation_notes.html#a211e11ccd9226055d6dc46afc2713356" title="display summary of theoretical SNR values " alt="" coords="257,893,415,934"/>
+<area shape="rect" id="node20" href="$class_vie_v_s_1_1_operation_notes.html#a032d10c0886d1052ddf456d26358065d" title="list key=stationName " alt="" coords="257,566,415,608"/>
+<area shape="rect" id="node21" href="$class_vie_v_s_1_1_operation_notes.html#a591d773780c5d0c4da5b95fcd8fc4b71" title="list sky coverage scores " alt="" coords="244,632,428,673"/>
+<area shape="rect" id="node22" href="$class_vie_v_s_1_1_output.html#afd1c5457d57849b96fa97a2b318a57ee" title="write statistics per source group file " alt="" coords="493,202,691,244"/>
+<area shape="rect" id="node23" href="$class_vie_v_s_1_1_output.html#a05f32c2b3aa13c582dd7090d02eb4cda" title="calculate minutes where source is visible " alt="" coords="237,218,435,244"/>
+<area shape="rect" id="node24" href="$class_vie_v_s_1_1_output.html#a8bbf8bbe833a0728e23e5d9763d38b16" title="write statistics line to statistics.csv file " alt="" coords="743,268,940,295"/>
+<area shape="rect" id="node25" href="$class_vie_v_s_1_1_skd.html#a4ee947f1e2d5b05900838591518a13a3" title="write skd $PARAM block " alt="" coords="249,319,423,346"/>
+<area shape="rect" id="node28" href="$class_vie_v_s_1_1_scan.html#a6fcbaa3a51f226b8111bfd9ca68e0507" title="first part of score calculation " alt="" coords="255,1412,417,1453"/>
+<area shape="rect" id="node29" href="$class_vie_v_s_1_1_scan.html#adaf8768398940a9057442c1cb76f6081" title="calc score for high impact scans " alt="" coords="511,1390,673,1416"/>
+<area shape="rect" id="node30" href="$class_vie_v_s_1_1_scheduler.html#af4358b5c43c91d84bf0521fcadb9fa37" title="start recursive scan selection " alt="" coords="497,1036,687,1077"/>
+<area shape="rect" id="node31" href="$class_vie_v_s_1_1_scheduler.html#aa11cc985b6d47dc44b0fde718a01a0d4" title="main function that starts the scheduling " alt="" coords="1010,1059,1169,1086"/>
+<area shape="rect" id="node32" href="$class_vie_v_s_1_1_scheduler.html#a6f486b216414097fae4556c5288be561" title="start scan selection between scans " alt="" coords="747,993,936,1034"/>
+<area shape="rect" id="node33" href="$class_vie_v_s_1_1_scheduler.html#af882c30e797e39616e7817a63913b80c" title="transform idle time to observing time " alt="" coords="757,1178,925,1220"/>
+<area shape="rect" id="node34" href="$class_vie_v_s_1_1_scheduler.html#af636ee91e2e4e69c7682d1d3226a22dd" title="write calibrator statistics " alt="" coords="227,1061,445,1102"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_vie_schedpp.html#a4a08bfdb148b554362453409215233c6" title="start VieSched++ " alt="" coords="1235,242,1397,268"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main function " alt="" coords="1445,242,1496,268"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_skd_parser.html#a73d3e3ea04ba448a667f4bc72d4019b4" title="read skd file " alt="" coords="511,1302,673,1328"/>
+<area shape="rect" id="node10" href="$class_vie_v_s_1_1_output.html#a60f77fbe1537e0e957ea7c55302990c0" title="create a operations notes file " alt="" coords="739,536,944,577"/>
+<area shape="rect" id="node11" href="$class_vie_v_s_1_1_output.html#a9e827e07e5b4e811a14c34302623adc0" title="create all output files " alt="" coords="1007,297,1172,338"/>
+<area shape="rect" id="node13" href="$class_vie_v_s_1_1_operation_notes.html#a449b8007cea55a785c8ac466ce0452e8" title="write simple skdsum file " alt="" coords="513,402,671,444"/>
+<area shape="rect" id="node14" href="$class_vie_v_s_1_1_output.html#afbcd835040d5f7f9582ee7607a2808e4" title="writes a summary text file containing some basic statistics and overviews " alt="" coords="746,390,937,416"/>
+<area shape="rect" id="node26" href="$class_vie_v_s_1_1_skd.html#a88feca45a4116ddc8c2399d1410b1d35" title="creates a skd file " alt="" coords="517,319,667,346"/>
+<area shape="rect" id="node27" href="$class_vie_v_s_1_1_output.html#aa887e56ed6fa58a5239d75d06ab0dec1" title="creates a skd file " alt="" coords="759,319,924,346"/>
+</map>

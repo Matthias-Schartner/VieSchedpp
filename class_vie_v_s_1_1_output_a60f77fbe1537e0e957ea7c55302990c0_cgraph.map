@@ -1,0 +1,41 @@
+<map id="VieVS::Output::writeOperationsNotes" name="VieVS::Output::writeOperationsNotes">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_vie_v_s___named_object.html#a2f23922726dcdce18f03a06b3b94910f" title="get object name " alt="" coords="746,1547,937,1589"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_operation_notes.html#ab89bb750ca2faaaee4a8bab4e251d866" title="write operation notes file " alt="" coords="259,621,418,662"/>
+<area shape="rect" id="node4" href="$namespace_vie_v_s_1_1util.html#a1baf6b6d9ec2bd608e5d357f53f6150a" title="convert weekday integer to string " alt="" coords="481,165,668,192"/>
+<area shape="rect" id="node5" href="$namespace_vie_v_s_1_1util.html#ae93c35f4c7e2434c2bee9a27e039142e" title="convert month integer to string " alt="" coords="491,216,658,243"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_network.html#a88ebeb2401d0aee8222bf59faac94618" title="get number of stations " alt="" coords="755,593,927,620"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_network.html#aecb9d69341317dc24e1fd74e13fde620" title="get all stations in this network " alt="" coords="746,644,937,671"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_time_system.html#ac8f1974d4daf2d336aa65ea7c0f4c611" title="converts datetime to string " alt="" coords="477,398,673,439"/>
+<area shape="rect" id="node9" href="$namespace_vie_v_s_1_1util.html#a2fa5c9f5a3a5ec9c3ed2a41b84c563d3" title="software version number " alt="" coords="507,464,642,491"/>
+<area shape="rect" id="node10" href="$class_vie_v_s_1_1_operation_notes.html#a8aea3e614a1ca8c31c1425e535e71f3a" title="list first and last observations in skd style " alt="" coords="495,580,654,636"/>
+<area shape="rect" id="node11" href="$class_vie_v_s_1_1_operation_notes.html#a032d10c0886d1052ddf456d26358065d" title="list key=stationName " alt="" coords="495,333,654,374"/>
+<area shape="rect" id="node12" href="$class_vie_v_s_1_1_operation_notes.html#a9b7f6e11620a61b0f329a547127adfcf" title="time spend per station " alt="" coords="495,515,654,557"/>
+<area shape="rect" id="node13" href="$class_vie_v_s_1_1_operation_notes.html#ad4ab2351cc6c2561d386da3949df58de" title="baseline dependent statistics of the schedule " alt="" coords="487,973,663,1014"/>
+<area shape="rect" id="node19" href="$class_vie_v_s_1_1_operation_notes.html#aa0f149e0b98e752fbc609ef2f908fa4c" title="number of stations per scan statistics " alt="" coords="495,267,654,309"/>
+<area shape="rect" id="node20" href="$class_vie_v_s_1_1_operation_notes.html#a16412103cf392e24d182e5e81634bc50" title="general statistics of the schedule " alt="" coords="489,842,660,883"/>
+<area shape="rect" id="node21" href="$class_vie_v_s_1_1_weight_factors.html#a1b79d698015d50d107d9d76b6344946a" title="summary of all weight factors " alt="" coords="499,907,651,949"/>
+<area shape="rect" id="node22" href="$class_vie_v_s_1_1_operation_notes.html#a591d773780c5d0c4da5b95fcd8fc4b71" title="list sky coverage scores " alt="" coords="483,777,667,818"/>
+<area shape="rect" id="node25" href="$class_vie_v_s_1_1_operation_notes.html#afeb22f9ac98ef89d932343517e7a3188" title="displays some station dependent statistics of the schedule " alt="" coords="491,711,658,753"/>
+<area shape="rect" id="node26" href="$class_vie_v_s_1_1_operation_notes.html#a0dfc52767cc00703abe3fa1484645027" title="displays some source dependent statistics of the schedule " alt="" coords="491,1122,658,1163"/>
+<area shape="rect" id="node27" href="$class_vie_v_s_1_1_operation_notes.html#a211e11ccd9226055d6dc46afc2713356" title="display summary of theoretical SNR values " alt="" coords="495,1057,654,1098"/>
+<area shape="rect" id="node33" href="$class_vie_v_s_1_1_operation_notes.html#a9a6116eb555eee6c325e69024d0869cb" title="source dependent statistics of the schedule " alt="" coords="472,1351,677,1393"/>
+<area shape="rect" id="node37" href="$class_vie_v_s_1_1_operation_notes.html#a9e10db195469201c22f04fd9f061ace7" title="list astronomical parameters " alt="" coords="467,49,682,90"/>
+<area shape="rect" id="node14" href="$class_vie_v_s_1_1_network.html#acb913d06560b50cf06e3f183855e6b7a" title="get station per id " alt="" coords="750,980,933,1007"/>
+<area shape="rect" id="node15" href="$class_vie_v_s_1_1_vie_v_s___named_object.html#a39740f5606b4ebebef1d5c875b3950c7" title="get object alternative name " alt="" coords="746,813,937,854"/>
+<area shape="rect" id="node16" href="$class_vie_v_s_1_1_network.html#a0c14ae91e930b8effa85e24c1947daef" title="ger baseline per id " alt="" coords="745,1132,937,1159"/>
+<area shape="rect" id="node17" href="$class_vie_v_s_1_1_baseline.html#a9c8ee82cf1f764e6a5bacc2d40b640b1" title="getter for baseline statistics " alt="" coords="742,879,941,905"/>
+<area shape="rect" id="node18" href="$class_vie_v_s_1_1_station.html#a8f1bd8bdedd54a7bf4c64762af7a9835" title="getter for number of baselines which were already observed with this station " alt="" coords="757,929,925,956"/>
+<area shape="rect" id="node23" href="$class_vie_v_s_1_1_network.html#ae47b3a3f65ef93be9a34f150a042ae20" title="get lookup table for sky coverage id based on station id " alt="" coords="741,695,941,737"/>
+<area shape="rect" id="node24" href="$class_vie_v_s_1_1_network.html#ad1c36de0497400759f4b07479773fa81" title="get sky coverage per id " alt="" coords="731,761,952,788"/>
+<area shape="rect" id="node28" href="$class_vie_v_s_1_1_network.html#a5db00415c21170482e5b8254d0120d52" title="get number of baselines " alt="" coords="756,1300,927,1327"/>
+<area shape="rect" id="node29" href="$sofa_8h.html#a718cb20123915d387bc64550d8950019" title="iauGmst82" alt="" coords="799,1031,884,1057"/>
+<area shape="rect" id="node30" href="$namespace_vie_v_s_1_1util.html#ab4d40ce9164d54dd82aeb6d68b4e14c6" title="calculate duration between two time points " alt="" coords="772,1081,911,1108"/>
+<area shape="rect" id="node31" href="$class_vie_v_s_1_1_network.html#a20d756b110899239ea281aa819d93584" title="get baseline vector between two stations " alt="" coords="755,1183,928,1209"/>
+<area shape="rect" id="node32" href="$class_vie_v_s_1_1_vie_v_s___object.html#a633f6aeefc0eb1e39ed55c734311a6e7" title="get object id " alt="" coords="767,1234,916,1275"/>
+<area shape="rect" id="node34" href="$class_vie_v_s_1_1_observation.html#a8c7148a82cf8c120519ca6f4767715b5" title="get first station id " alt="" coords="773,1351,910,1393"/>
+<area shape="rect" id="node35" href="$class_vie_v_s_1_1_observation.html#a9466fe53528d92f78336c08a7521ec36" title="get second station id " alt="" coords="773,1417,910,1458"/>
+<area shape="rect" id="node36" href="$class_vie_v_s_1_1_observation.html#ac808c59538a08f4b6b7f6d330981b193" title="get observing time " alt="" coords="773,1482,910,1523"/>
+<area shape="rect" id="node38" href="$namespace_vie_v_s_1_1util.html#aca677ba7506c0c7ef6496c03bf6da8dd" title="convert right ascension to string " alt="" coords="774,5,909,32"/>
+<area shape="rect" id="node39" href="$namespace_vie_v_s_1_1util.html#a1823ec0122ec0bec43bac182a1e4d12c" title="convert declination to string " alt="" coords="772,56,911,83"/>
+<area shape="rect" id="node40" href="$class_vie_v_s_1_1_time_system.html#a2c68519d27f57760dc844d823b2aa6ec" title="converts datetime to string " alt="" coords="767,107,916,149"/>
+</map>

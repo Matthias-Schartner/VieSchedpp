@@ -1,0 +1,9 @@
+<map id="VieVS::Network::addStation" name="VieVS::Network::addStation">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_vie_v_s___object.html#a633f6aeefc0eb1e39ed55c734311a6e7" title="get object id " alt="" coords="261,5,411,46"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_vie_v_s___object.html#a23e1f67baf4858466eea93dd3db0b790" title="set object id " alt="" coords="261,70,411,111"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_vie_v_s___named_object.html#a39740f5606b4ebebef1d5c875b3950c7" title="get object alternative name " alt="" coords="241,135,431,177"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_station.html#a8d09fd120f22e6c43547ae375461a32b" title="getter for position " alt="" coords="245,201,427,228"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_position.html#ac1ea5fe531adf06e99f9a9f443706328" title="getter for x coordinate " alt="" coords="261,252,411,279"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_position.html#a6848d15917b86e8f4881e608aa8c0d89" title="getter for y coordinate " alt="" coords="261,303,411,329"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_position.html#a64a505b6e94ff553ba652ea444978c3c" title="getter for z coordinate " alt="" coords="262,353,410,380"/>
+</map>

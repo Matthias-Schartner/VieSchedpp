@@ -1,0 +1,11 @@
+<map id="VieVS::TimeSystem::time2timeOfDay" name="VieVS::TimeSystem::time2timeOfDay">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_time_system.html#ab17e7f8369ad5ea4a47aaae2c8af7b1a" title="converts internal time to string " alt="" coords="251,5,400,46"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_scan.html#accb1b498dbe635825c39053a394cbce0" title="outputs information of this scan to the current console " alt="" coords="255,71,396,97"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_scan.html#acc05917bf28c1936ca8ccb74f27caef3" title="remove unnecessary observing time " alt="" coords="213,122,438,163"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_scan.html#a7750c63c1f956a4386f523c0658e77e0" title="remove additional observing time " alt="" coords="223,187,428,229"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_scheduler.html#aaefa26f5db885c88ad8cf9f2d00e1cf0" title="start tagalong mode " alt="" coords="203,253,447,280"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_scheduler.html#af882c30e797e39616e7817a63913b80c" title="transform idle time to observing time " alt="" coords="241,305,409,346"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_scheduler.html#aa11cc985b6d47dc44b0fde718a01a0d4" title="main function that starts the scheduling " alt="" coords="497,312,655,339"/>
+<area shape="rect" id="node9" href="$class_vie_v_s_1_1_vie_schedpp.html#a4a08bfdb148b554362453409215233c6" title="start VieSched++ " alt="" coords="704,312,867,339"/>
+<area shape="rect" id="node10" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main function " alt="" coords="915,312,965,339"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="VieVS::Station" name="VieVS::Station">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_vie_v_s___named_object.html" title="VieVS base object with name. " alt="" coords="206,26,397,53"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_station_1_1_parameters.html" title="station parameters " alt="" coords="598,26,781,53"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_vie_v_s___object.html" title="VieVS base object. " alt="" coords="5,57,155,83"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_pointing_vector.html" title="representation of VLBI pointing vector " alt="" coords="421,77,573,103"/>
+<area shape="rect" id="node4" href="$struct_vie_v_s_1_1_station_1_1_statistics.html" title="statistics " alt="" coords="604,139,775,166"/>
+</map>

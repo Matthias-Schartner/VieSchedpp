@@ -1,0 +1,9 @@
+<map id="VieVS::Station::getPosition" name="VieVS::Station::getPosition">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_ast.html#abd659b19b82b8cae3d92e1291b4efa82" title="write experiment block " alt="" coords="235,12,437,39"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_network.html#aa251a2cd43c62febfcdc5863a0bb609d" title="add a new station to the network " alt="" coords="243,63,429,89"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_ast.html#ae7113ce2e071bddd1724e52e32b1b8ec" title="write ast file " alt="" coords="486,12,650,39"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_output.html#a03075c416830a6e87891f2d61027565c" title="creates a ast file " alt="" coords="699,12,882,39"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_output.html#a9e827e07e5b4e811a14c34302623adc0" title="create all output files " alt="" coords="931,5,1096,46"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_vie_schedpp.html#a4a08bfdb148b554362453409215233c6" title="start VieSched++ " alt="" coords="1144,12,1307,39"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main function " alt="" coords="1355,12,1405,39"/>
+</map>

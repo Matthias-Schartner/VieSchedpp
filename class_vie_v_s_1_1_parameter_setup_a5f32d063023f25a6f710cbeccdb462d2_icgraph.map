@@ -1,0 +1,6 @@
+<map id="VieVS::ParameterSetup::getMembers" name="VieVS::ParameterSetup::getMembers">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_parameter_settings.html#a9bb7718c4626fbd97ee15b12b5773d9d" title="returns a child tree of root setup object " alt="" coords="217,5,391,46"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_parameter_setup.html#a5bb062a8e86cd312215c529cdda42c82" title="checks if this setup is a valid child of other setup " alt="" coords="223,70,385,111"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_parameter_setup.html#ad93a8e43762e2eaeee34ff59e26e9f80" title="checks if this setup is a valid siblig of other setup " alt="" coords="223,135,385,177"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_parameter_setup.html#a5d22cad24b1f4838bbee63c55dea058c" title="add a child setup to current setup " alt="" coords="441,70,602,111"/>
+</map>

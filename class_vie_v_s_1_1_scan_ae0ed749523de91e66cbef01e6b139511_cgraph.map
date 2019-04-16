@@ -1,0 +1,17 @@
+<map id="VieVS::Scan::calcScore" name="VieVS::Scan::calcScore">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_network.html#a88ebeb2401d0aee8222bf59faac94618" title="get number of stations " alt="" coords="217,5,389,32"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_pointing_vector.html#a23bc8fbf2f44afef47aad793352df23d" title="getter for station id " alt="" coords="227,57,379,98"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_pointing_vector.html#af97572b6cd632d3643ff0fc37f605eb0" title="getter for elevation " alt="" coords="227,122,379,163"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_scan.html#ac8c74fc0e746c8f08d4667204acf3d7f" title="calculates score for duration " alt="" coords="221,187,384,229"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_scan.html#ac914fbb28793c678fa070e6863922d3f" title="calculates the score for number of observations " alt="" coords="221,253,384,294"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_network.html#a5db00415c21170482e5b8254d0120d52" title="get number of baselines " alt="" coords="217,319,388,345"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_scan.html#a034db93ba7e3e37256207852c9f3acda" title="second part of score calculations " alt="" coords="221,370,384,411"/>
+<area shape="rect" id="node16" href="$class_vie_v_s_1_1_vie_v_s___object.html#ac4fa279c7da1c7af8342c31eb90e28bd" title="object id string " alt="" coords="228,435,377,477"/>
+<area shape="rect" id="node9" href="$class_vie_v_s_1_1_source.html#a8b29caff11714b25e6550b04fe1e4126" title="getter of parameter object " alt="" coords="452,203,623,229"/>
+<area shape="rect" id="node10" href="$class_vie_v_s_1_1_source.html#a0202d8550fcd0fa9399520cdf4fa07d6" title="geter for number of already scheduled scans to this source " alt="" coords="448,253,627,280"/>
+<area shape="rect" id="node11" href="$class_vie_v_s_1_1_vie_v_s___object.html#a633f6aeefc0eb1e39ed55c734311a6e7" title="get object id " alt="" coords="463,305,612,346"/>
+<area shape="rect" id="node12" href="$class_vie_v_s_1_1_scan.html#a3d547faa3e25075f0b742fc5351f3046" title="mean of the weight factors for each participating station " alt="" coords="466,370,609,411"/>
+<area shape="rect" id="node13" href="$class_vie_v_s_1_1_network.html#aecb9d69341317dc24e1fd74e13fde620" title="get all stations in this network " alt="" coords="442,436,633,463"/>
+<area shape="rect" id="node14" href="$class_vie_v_s_1_1_scan.html#a24972c39777aa1345199544d3248fb9a" title="mean of the weight factors for each participating baselines " alt="" coords="466,487,609,529"/>
+<area shape="rect" id="node15" href="$class_vie_v_s_1_1_network.html#ade4586e553465f1c022518388764386b" title="get all baselines " alt="" coords="438,553,637,580"/>
+</map>

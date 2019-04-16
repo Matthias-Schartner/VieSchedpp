@@ -1,0 +1,11 @@
+<map id="VieVS::Network::refBaselines" name="VieVS::Network::refBaselines">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_initializer.html#a2f6696b033172a2cfd9a51df0406c494" title="initializes all baselines with settings from VieSchedpp.xml file " alt="" coords="799,5,934,46"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_scheduler.html#a7c0b2793a42c672af739de1e98ad33d1" title="check optimization conditions " alt="" coords="251,38,493,79"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_scheduler.html#a006897a1b7fa6866f24f111ae32d0b5d" title="reset all events to time zero " alt="" coords="283,129,461,170"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_vie_schedpp.html#a4a08bfdb148b554362453409215233c6" title="start VieSched++ " alt="" coords="995,55,1157,81"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main function " alt="" coords="1205,55,1256,81"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_scheduler.html#aa11cc985b6d47dc44b0fde718a01a0d4" title="main function that starts the scheduling " alt="" coords="787,96,946,123"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_scheduler.html#a6f486b216414097fae4556c5288be561" title="start scan selection between scans " alt="" coords="545,89,735,130"/>
+<area shape="rect" id="node9" href="$class_vie_v_s_1_1_scheduler.html#af4c973e862faf389f580ef83c238bc30" title="schedule high impact scans " alt="" coords="541,154,739,195"/>
+<area shape="rect" id="node10" href="$class_vie_v_s_1_1_scheduler.html#af882c30e797e39616e7817a63913b80c" title="transform idle time to observing time " alt="" coords="556,219,724,261"/>
+</map>

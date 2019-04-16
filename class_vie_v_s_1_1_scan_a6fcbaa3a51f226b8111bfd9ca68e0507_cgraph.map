@@ -1,0 +1,12 @@
+<map id="VieVS::Scan::calcScore_firstPart" name="VieVS::Scan::calcScore_firstPart">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_network.html#a88ebeb2401d0aee8222bf59faac94618" title="get number of stations " alt="" coords="217,5,389,32"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_network.html#a5db00415c21170482e5b8254d0120d52" title="get number of baselines " alt="" coords="217,56,388,83"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_scan.html#ac914fbb28793c678fa070e6863922d3f" title="calculates the score for number of observations " alt="" coords="221,107,384,149"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_scan.html#a3cc13e8ae61a7f867b83797ef97ab6e7" title="calculates score for average source observations " alt="" coords="221,173,384,214"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_scan.html#ac50890320f668ed9fe647e31bdb044bf" title="calculates score for average station observations " alt="" coords="221,238,384,279"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_scan.html#abc0fc6dd2468ca1766a13c3d20852929" title="calculates score for average baseline observations " alt="" coords="221,303,384,345"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_scan.html#ac8c74fc0e746c8f08d4667204acf3d7f" title="calculates score for duration " alt="" coords="221,369,384,410"/>
+<area shape="rect" id="node9" href="$class_vie_v_s_1_1_scan.html#a1f7504eef9130b6cd89faa042493198f" title="calculates score based on idle time " alt="" coords="221,434,384,475"/>
+<area shape="rect" id="node10" href="$class_vie_v_s_1_1_scan.html#a3ac49e2d0949e8ae29f25050279a4fdf" title="calculate score for low declination scans " alt="" coords="221,499,384,541"/>
+<area shape="rect" id="node11" href="$class_vie_v_s_1_1_scan.html#a67a4526cbf3aed891d344aa1464d35eb" title="calculate score for low elevation scans " alt="" coords="221,565,384,606"/>
+</map>

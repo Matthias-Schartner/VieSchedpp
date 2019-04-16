@@ -1,0 +1,19 @@
+<map id="/home/travis/build/TUW&#45;VieVS/VieSchedpp/Station/Station.h" name="/home/travis/build/TUW&#45;VieVS/VieSchedpp/Station/Station.h">
+<area shape="rect" id="node9" href="$_position_8h.html" title="class Position " alt="" coords="519,275,597,301"/>
+<area shape="rect" id="node11" href="$_constants_8h.html" title="constants used in this program " alt="" coords="1591,357,1728,384"/>
+<area shape="rect" id="node14" href="$sofa_8h.html" title="../Misc/sofa.h" alt="" coords="34,357,136,384"/>
+<area shape="rect" id="node17" href="$_abstract_antenna_8h.html" title="class AbstractAntenna " alt="" coords="317,192,499,219"/>
+<area shape="rect" id="node18" href="$_pointing_vector_8h.html" title="class PointingVector " alt="" coords="985,275,1161,301"/>
+<area shape="rect" id="node21" href="$_abstract_cable_wrap_8h.html" title="class AbstractCableWrap " alt="" coords="625,192,841,219"/>
+<area shape="rect" id="node22" href="$_equipment_8h.html" title="class Equipment " alt="" coords="1338,275,1469,301"/>
+<area shape="rect" id="node25" href="$_abstract_horizon_mask_8h.html" title="class AbstractHorizonMask " alt="" coords="1201,185,1399,226"/>
+<area shape="rect" id="node26" href="$_source_8h.html" title="class Source " alt="" coords="1421,109,1551,136"/>
+<area shape="rect" id="node29" href="$_time_system_8h.html" title="class TimeSystem " alt="" coords="2483,192,2633,219"/>
+<area shape="rect" id="node33" href="$_vie_v_s___named_object_8h.html" title="class VieVS_NamedObject " alt="" coords="1962,192,2163,219"/>
+<area shape="rect" id="node34" href="$_astronomical_parameters_8h.html" title="class AstronomicalParameters " alt="" coords="2239,192,2459,219"/>
+<area shape="rect" id="node12" href="$_vie_v_s___object_8h.html" title="class VieVS_Object " alt="" coords="994,357,1152,384"/>
+<area shape="rect" id="node15" href="$sofam_8h.html" title="sofam.h" alt="" coords="5,440,75,467"/>
+<area shape="rect" id="node28" href="$_abstract_flux_8h.html" title="class AbstractFlux " alt="" coords="775,275,909,301"/>
+<area shape="rect" id="node35" href="$_flags_8h.html" title="class Flags " alt="" coords="1524,192,1633,219"/>
+<area shape="rect" id="node30" href="$util_8h.html" title="utillity functions for VieSched++ " alt="" coords="2112,275,2163,301"/>
+</map>

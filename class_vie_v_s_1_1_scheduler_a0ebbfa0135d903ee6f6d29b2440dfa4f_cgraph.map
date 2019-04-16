@@ -1,0 +1,6 @@
+<map id="VieVS::Scheduler::update" name="VieVS::Scheduler::update">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_pointing_vector.html#a23bc8fbf2f44afef47aad793352df23d" title="getter for station id " alt="" coords="228,5,380,46"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_observation.html#a666304229a44a97342b07740647e8375" title="get baseline id " alt="" coords="235,70,373,111"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_observation.html#ac808c59538a08f4b6b7f6d330981b193" title="get observing time " alt="" coords="235,135,373,177"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_source.html#adeeb38eea325677067ac41f6a34d5f3b" title="updates scan to this source " alt="" coords="227,201,381,228"/>
+</map>

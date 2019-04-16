@@ -1,0 +1,12 @@
+<map id="VieVS::OperationNotes::displaySNRSummary" name="VieVS::OperationNotes::displaySNRSummary">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_network.html#a5db00415c21170482e5b8254d0120d52" title="get number of baselines " alt="" coords="224,5,395,32"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_network.html#acb913d06560b50cf06e3f183855e6b7a" title="get station per id " alt="" coords="218,56,401,83"/>
+<area shape="rect" id="node4" href="$sofa_8h.html#a718cb20123915d387bc64550d8950019" title="iauGmst82" alt="" coords="267,107,352,133"/>
+<area shape="rect" id="node5" href="$namespace_vie_v_s_1_1util.html#ab4d40ce9164d54dd82aeb6d68b4e14c6" title="calculate duration between two time points " alt="" coords="240,157,379,184"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_network.html#a20d756b110899239ea281aa819d93584" title="get baseline vector between two stations " alt="" coords="223,208,396,235"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_network.html#a88ebeb2401d0aee8222bf59faac94618" title="get number of stations " alt="" coords="223,259,395,285"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_network.html#aecb9d69341317dc24e1fd74e13fde620" title="get all stations in this network " alt="" coords="214,309,405,336"/>
+<area shape="rect" id="node9" href="$class_vie_v_s_1_1_vie_v_s___named_object.html#a2f23922726dcdce18f03a06b3b94910f" title="get object name " alt="" coords="214,361,405,402"/>
+<area shape="rect" id="node10" href="$class_vie_v_s_1_1_network.html#a0c14ae91e930b8effa85e24c1947daef" title="ger baseline per id " alt="" coords="213,427,405,453"/>
+<area shape="rect" id="node11" href="$class_vie_v_s_1_1_vie_v_s___object.html#a633f6aeefc0eb1e39ed55c734311a6e7" title="get object id " alt="" coords="235,478,384,519"/>
+</map>

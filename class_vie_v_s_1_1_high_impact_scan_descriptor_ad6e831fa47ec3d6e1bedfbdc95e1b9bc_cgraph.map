@@ -1,0 +1,6 @@
+<map id="VieVS::HighImpactScanDescriptor::isCorrectHighImpactScan" name="VieVS::HighImpactScanDescriptor::isCorrectHighImpactScan">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_source.html#a8b29caff11714b25e6550b04fe1e4126" title="getter of parameter object " alt="" coords="316,5,487,32"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_scan.html#a33a7c23e792f7404423836bd1da160a3" title="getter to get all scan times " alt="" coords="322,56,481,83"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_scan_times.html#ac63d909f6b4d2ab30d02c1e8f03fc2b4" title="get observing time " alt="" coords="278,107,525,133"/>
+<area shape="rect" id="node5" href="$namespace_vie_v_s_1_1util.html#a406017f6514d672a6c62d688485a4855" title="absolute difference between two points " alt="" coords="334,157,469,184"/>
+</map>

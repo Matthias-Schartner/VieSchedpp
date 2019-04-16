@@ -1,0 +1,12 @@
+<map id="VieVS::Initializer::readGroups" name="VieVS::Initializer::readGroups">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_initializer.html#ad34428852d92704f3efa9a56aead1761" title="initializes all stations with settings from VieSchedpp.xml file " alt="" coords="200,5,325,46"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_initializer.html#a3a1406d7c9cab37f14ad9d6e19be2152" title="initializes all sources with settings from VieSchedpp.xml file " alt="" coords="200,70,325,111"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_initializer.html#a2f6696b033172a2cfd9a51df0406c494" title="initializes all baselines with settings from VieSchedpp.xml file " alt="" coords="195,135,330,177"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_initializer.html#a61d3a67ff1987708d8d320995833c32d" title="reads multiSched block from VieSchedpp.xml file " alt="" coords="203,201,323,242"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_initializer.html#a5ffcb90a5f27dbf0d9745af925d34c37" title="initializes a custom source sequence if there is one defined in the VieSchedpp.xml file ..." alt="" coords="175,266,351,307"/>
+<area shape="rect" id="node9" href="$class_vie_v_s_1_1_initializer.html#a52d871107c7188d341d9a17f20f69aec" title="initializes calibration block with settings from VieSchedpp.xml file " alt="" coords="173,331,352,373"/>
+<area shape="rect" id="node10" href="$class_vie_v_s_1_1_initializer.html#ac3601ddfcf5f9a70b7144f818d54c24c" title="initializes optimization conditions with settings from VieSchedpp.xml file " alt="" coords="187,397,338,438"/>
+<area shape="rect" id="node11" href="$class_vie_v_s_1_1_initializer.html#aedf5258b7a5b7fee8a7b2b8cef7ea9fd" title="initializes high impact scan descriptors with settings from VieSchedpp.xml file " alt="" coords="175,461,350,517"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_vie_schedpp.html#a4a08bfdb148b554362453409215233c6" title="start VieSched++ " alt="" coords="400,241,563,268"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main function " alt="" coords="611,241,661,268"/>
+</map>

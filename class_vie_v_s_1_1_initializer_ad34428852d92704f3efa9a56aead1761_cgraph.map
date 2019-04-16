@@ -1,0 +1,23 @@
+<map id="VieVS::Initializer::initializeStations" name="VieVS::Initializer::initializeStations">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_initializer.html#adee1e78c05983808f25399470b0c541d" title="reads all groups specified in the root tree " alt="" coords="223,5,342,46"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_parameter_settings.html#ace4302b01719e4af8c5dfbed18e4b639" title="transforms parameterStations to property_tree " alt="" coords="195,70,370,111"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_network.html#a88ebeb2401d0aee8222bf59faac94618" title="get number of stations " alt="" coords="197,136,369,163"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_initializer.html#a0c183f342bb752b4ac111c4813a39165" title="station setup function " alt="" coords="223,187,342,229"/>
+<area shape="rect" id="node9" href="$class_vie_v_s_1_1_network.html#ae12ff927147696c9ba08a048cc4de569" title="reference to station per id " alt="" coords="193,253,373,280"/>
+<area shape="rect" id="node10" href="$class_vie_v_s_1_1_vie_v_s___named_object.html#a2f23922726dcdce18f03a06b3b94910f" title="get object name " alt="" coords="187,305,378,346"/>
+<area shape="rect" id="node11" href="$class_vie_v_s_1_1_pointing_vector.html#ad6388388c0ba7f408fc00f195126f9f2" title="sets azimuth " alt="" coords="207,370,359,411"/>
+<area shape="rect" id="node12" href="$class_vie_v_s_1_1_station.html#ac041a1a0ef9350cac80af1c9c19dbcd7" title="getter for cable wrap " alt="" coords="183,436,382,463"/>
+<area shape="rect" id="node13" href="$class_vie_v_s_1_1_abstract_cable_wrap.html#ab294dbbe0b1d3647884203b98946ff2a" title="getter for lower neutral cable wrap limit in radians " alt="" coords="192,487,373,529"/>
+<area shape="rect" id="node14" href="$class_vie_v_s_1_1_abstract_cable_wrap.html#ab9294e1bb3050f1ea0cf54a897980b4e" title="getter for upper neutral cable wrap limit in radians " alt="" coords="192,553,373,594"/>
+<area shape="rect" id="node15" href="$class_vie_v_s_1_1_pointing_vector.html#a9f1601491831fbab9b396f67a85b9764" title="sets elevation " alt="" coords="207,618,359,659"/>
+<area shape="rect" id="node16" href="$class_vie_v_s_1_1_pointing_vector.html#ab5e79ca4cb03bc2ddd1af20dcceaaa10" title="sets time for which azimth and elevation is calculated " alt="" coords="207,683,359,725"/>
+<area shape="rect" id="node17" href="$class_vie_v_s_1_1_station.html#a0bba06d12aefbeef0fe5b83db8af8c27" title="change current pointing vector " alt="" coords="194,749,371,790"/>
+<area shape="rect" id="node18" href="$class_vie_v_s_1_1_station.html#a61ca0cf551c8a7f7661f178f8060df1f" title="sets all upcoming events " alt="" coords="189,815,377,841"/>
+<area shape="rect" id="node19" href="$class_vie_v_s_1_1_station.html#a14ffd7f0b1aec5b77082a5c102d760cd" title="this function checks if it is time to change the parameters " alt="" coords="197,866,368,907"/>
+<area shape="rect" id="node20" href="$class_vie_v_s_1_1_station.html#aac826bf4ff35f1376a7754022825b0c4" title="reference to current parameters " alt="" coords="179,932,386,959"/>
+<area shape="rect" id="node21" href="$class_vie_v_s_1_1_network.html#aecb9d69341317dc24e1fd74e13fde620" title="get all stations in this network " alt="" coords="187,983,378,1009"/>
+<area shape="rect" id="node22" href="$class_vie_v_s_1_1_network.html#aed2cbb775656ad0a78b7e0ae155a4d07" title="reference to all stations " alt="" coords="189,1033,376,1060"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_time_system.html#a879831a0aa7564065cd600e81323b915" title="convert string to datetime " alt="" coords="441,155,591,197"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_time_system.html#a9f55e9b9cd63437bf7c7c4e75d1936c9" title="converts time to internal time format " alt="" coords="435,221,597,262"/>
+<area shape="rect" id="node8" href="$namespace_vie_v_s_1_1util.html#ab4d40ce9164d54dd82aeb6d68b4e14c6" title="calculate duration between two time points " alt="" coords="645,228,784,255"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="VieVS::Subcon::updateAzEl" name="VieVS::Subcon::updateAzEl">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_pointing_vector.html#ab5e79ca4cb03bc2ddd1af20dcceaaa10" title="sets time for which azimth and elevation is calculated " alt="" coords="264,5,416,46"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_station.html#abcf70652615ccf01be32b67a8ce6fa14" title="calculation of azimuth, elevation, hour angle and declination with lookup tables " alt="" coords="256,70,424,111"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_station.html#aa8114fb495d689483d42bc060f635444" title="checks if a source is visible for this station " alt="" coords="257,136,423,163"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_station.html#ac041a1a0ef9350cac80af1c9c19dbcd7" title="getter for cable wrap " alt="" coords="241,187,439,213"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_abstract_cable_wrap.html#a4bb45d5ff96f1498c4a6797877191088" title="unwraps the current azimuth of pointing vector " alt="" coords="249,238,431,279"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_station.html#acd1c632510d183661a524f5fba3302a3" title="getter for current pointing vector " alt="" coords="251,303,429,345"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_station.html#a827a5a29f1871dc1ef1fba5a14b088a8" title="calculate slew time between current pointing vector and this pointing vector " alt="" coords="254,369,426,396"/>
+<area shape="rect" id="node10" href="$class_vie_v_s_1_1_station.html#aaf8618b23756c485e6553c716ffb66c3" title="getter for parameters " alt="" coords="255,420,425,447"/>
+<area shape="rect" id="node9" href="$class_vie_v_s_1_1_lookup_table.html#a2eb3bafad08cb23ea8fe52744ebc9ffd" title="angular distance between two points " alt="" coords="488,362,629,403"/>
+</map>

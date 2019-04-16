@@ -1,0 +1,26 @@
+<map id="VieVS::Output::writeStatisticsPerSourceGroup" name="VieVS::Output::writeStatisticsPerSourceGroup">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_output.html#ac03457a798d679d32cf352281b8b3926" title="read all groups from VieSchedpp.xml file " alt="" coords="260,5,441,32"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_vie_v_s___named_object.html#a2f23922726dcdce18f03a06b3b94910f" title="get object name " alt="" coords="255,57,446,98"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_output.html#a05f32c2b3aa13c582dd7090d02eb4cda" title="calculate minutes where source is visible " alt="" coords="251,173,450,200"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_network.html#a88ebeb2401d0aee8222bf59faac94618" title="get number of stations " alt="" coords="503,13,675,40"/>
+<area shape="rect" id="node22" href="$class_vie_v_s_1_1_time_system.html#a9620325a7e9f0c1973738bde047994c3" title="internal time format to datetime " alt="" coords="269,225,432,266"/>
+<area shape="rect" id="node23" href="$namespace_vie_v_s_1_1util.html#ab4d40ce9164d54dd82aeb6d68b4e14c6" title="calculate duration between two time points " alt="" coords="281,291,420,317"/>
+<area shape="rect" id="node24" href="$class_vie_v_s_1_1_time_system.html#a2c68519d27f57760dc844d823b2aa6ec" title="converts datetime to string " alt="" coords="276,342,425,383"/>
+<area shape="rect" id="node25" href="$class_vie_v_s_1_1_network.html#acb913d06560b50cf06e3f183855e6b7a" title="get station per id " alt="" coords="259,408,442,435"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_source.html#a8b29caff11714b25e6550b04fe1e4126" title="getter of parameter object " alt="" coords="504,64,675,91"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_network.html#ae12ff927147696c9ba08a048cc4de569" title="reference to station per id " alt="" coords="499,115,679,141"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_vie_v_s___object.html#a633f6aeefc0eb1e39ed55c734311a6e7" title="get object id " alt="" coords="515,166,664,207"/>
+<area shape="rect" id="node9" href="$class_vie_v_s_1_1_pointing_vector.html#ab5e79ca4cb03bc2ddd1af20dcceaaa10" title="sets time for which azimth and elevation is calculated " alt="" coords="513,231,665,273"/>
+<area shape="rect" id="node10" href="$class_vie_v_s_1_1_station.html#abcf70652615ccf01be32b67a8ce6fa14" title="calculation of azimuth, elevation, hour angle and declination with lookup tables " alt="" coords="505,297,673,338"/>
+<area shape="rect" id="node11" href="$class_vie_v_s_1_1_station.html#abe07f313eae0ba37c534d2a305a4ca9d" title="calculation of azimuth, elevation, hour angle and declination with rigorouse model ..." alt="" coords="505,362,673,403"/>
+<area shape="rect" id="node21" href="$class_vie_v_s_1_1_station.html#aa8114fb495d689483d42bc060f635444" title="checks if a source is visible for this station " alt="" coords="507,428,672,455"/>
+<area shape="rect" id="node12" href="$sofa_8h.html#a1d5780c2d869da41106c5fb5a426a9a7" title="iauEra00" alt="" coords="766,167,839,193"/>
+<area shape="rect" id="node13" href="$sofa_8h.html#af2e7c313bf51567d9810507d36cb0a1b" title="iauC2ixys" alt="" coords="763,217,843,244"/>
+<area shape="rect" id="node14" href="$sofa_8h.html#ad7310daa54e31f3bc975bd70f5060d6a" title="iauC2tcio" alt="" coords="764,268,841,295"/>
+<area shape="rect" id="node15" href="$sofa_8h.html#a2463c33b55a11b110d2fd4a2b282dad7" title="iauTr" alt="" coords="777,319,828,345"/>
+<area shape="rect" id="node16" href="$sofa_8h.html#ae08e2e33c6cccf94c359a44e85c1f391" title="iauRxp" alt="" coords="771,369,834,396"/>
+<area shape="rect" id="node17" href="$sofa_8h.html#a39fd43c9335f8f8368a38586cf071f1a" title="iauSxp" alt="" coords="771,420,834,447"/>
+<area shape="rect" id="node18" href="$sofa_8h.html#a1c86a61852f1ddd3a3f52ae726dd04fc" title="iauPdp" alt="" coords="771,471,834,497"/>
+<area shape="rect" id="node19" href="$sofa_8h.html#a011a28df82ee932e3440c49e340fd159" title="iauPpp" alt="" coords="771,521,834,548"/>
+<area shape="rect" id="node20" href="$class_vie_v_s_1_1_time_system.html#a95878338b6e956b72a5d4d8315f7a48d" title="transforms modified julian date to Greenwich mean sidereal time " alt="" coords="728,573,877,614"/>
+</map>

@@ -1,0 +1,78 @@
+<map id="VieVS::Scheduler::highImpactScans" name="VieVS::Scheduler::highImpactScans">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_high_impact_scan_descriptor.html#a92facc9b887df7da75c22eb83a419f39" title="get target interval " alt="" coords="251,55,475,97"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_scheduler.html#aded8b42fa29666c33cc00140e4289ffc" title="checks if some parameters need to be changed " alt="" coords="541,2573,728,2614"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_network.html#aed2cbb775656ad0a78b7e0ae155a4d07" title="reference to all stations " alt="" coords="541,2471,728,2497"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_pointing_vector.html#ab5e79ca4cb03bc2ddd1af20dcceaaa10" title="sets time for which azimth and elevation is calculated " alt="" coords="843,5,995,46"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_high_impact_scan_descriptor.html#a8cab62455359f9ab4e4cb1fd89e1119a" title="calc possible high impact scans " alt="" coords="251,426,475,467"/>
+<area shape="rect" id="node19" href="$class_vie_v_s_1_1_high_impact_scan_descriptor.html#aa6f651c0963ef7ea0239d6e1361a505b" title="update high impact scans " alt="" coords="251,1457,475,1498"/>
+<area shape="rect" id="node64" href="$class_vie_v_s_1_1_high_impact_scan_descriptor.html#a445f9334c5452c1f850d9edefefe74d7" title="update log file for new high impact scans " alt="" coords="251,2003,475,2045"/>
+<area shape="rect" id="node67" href="$class_vie_v_s_1_1_high_impact_scan_descriptor.html#a055dde0c3aaaf34c9f2d31e85a5c9b43" title="get highest impact scans " alt="" coords="251,2069,475,2110"/>
+<area shape="rect" id="node69" href="$class_vie_v_s_1_1_high_impact_scan_descriptor.html#ad6e831fa47ec3d6e1bedfbdc95e1b9bc" title="check if target scan is valid high impact scans " alt="" coords="523,2354,747,2395"/>
+<area shape="rect" id="node70" href="$class_vie_v_s_1_1_scheduler.html#a0ebbfa0135d903ee6f6d29b2440dfa4f" title="updates the selected next scans to the schedule " alt="" coords="277,2193,449,2220"/>
+<area shape="rect" id="node74" href="$class_vie_v_s_1_1_high_impact_scan_descriptor.html#a2d198538c8daa5dfdac71ee077c3865a" title="checks if there are more possible high impact scans " alt="" coords="251,1938,475,1979"/>
+<area shape="rect" id="node75" href="$class_vie_v_s_1_1_scheduler.html#a9f7e2dcf7fd64ec4e13a12d1de32782f" title="sort schedule " alt="" coords="530,2303,739,2329"/>
+<area shape="rect" id="node76" href="$class_vie_v_s_1_1_scheduler.html#a006897a1b7fa6866f24f111ae32d0b5d" title="reset all events to time zero " alt="" coords="274,2463,451,2505"/>
+<area shape="rect" id="node4" href="$namespace_vie_v_s_1_1util.html#a4a1ab4e451c299af2c3d50e9cea9640a" title="outputs list of objects " alt="" coords="825,2580,1012,2607"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_network.html#acb913d06560b50cf06e3f183855e6b7a" title="get station per id " alt="" coords="827,1249,1010,1276"/>
+<area shape="rect" id="node9" href="$class_vie_v_s_1_1_station.html#abcf70652615ccf01be32b67a8ce6fa14" title="calculation of azimuth, elevation, hour angle and declination with lookup tables " alt="" coords="835,426,1003,467"/>
+<area shape="rect" id="node10" href="$class_vie_v_s_1_1_subcon.html#a7e8c4a4ef6331c1f7adabcc9291cad9f" title="create possible visible scan to a source " alt="" coords="541,273,728,300"/>
+<area shape="rect" id="node11" href="$class_vie_v_s_1_1_vie_v_s___object.html#a633f6aeefc0eb1e39ed55c734311a6e7" title="get object id " alt="" coords="1121,594,1271,635"/>
+<area shape="rect" id="node12" href="$class_vie_v_s_1_1_source.html#a8b29caff11714b25e6550b04fe1e4126" title="getter of parameter object " alt="" coords="833,1031,1004,1057"/>
+<area shape="rect" id="node13" href="$class_vie_v_s_1_1_vie_v_s___object.html#ac4fa279c7da1c7af8342c31eb90e28bd" title="object id string " alt="" coords="1121,922,1271,963"/>
+<area shape="rect" id="node14" href="$class_vie_v_s_1_1_vie_v_s___named_object.html#a2f23922726dcdce18f03a06b3b94910f" title="get object name " alt="" coords="1101,337,1291,378"/>
+<area shape="rect" id="node15" href="$class_vie_v_s_1_1_source.html#a0202d8550fcd0fa9399520cdf4fa07d6" title="geter for number of already scheduled scans to this source " alt="" coords="829,121,1008,148"/>
+<area shape="rect" id="node16" href="$class_vie_v_s_1_1_source.html#a7633fdd7416544da0bcf6511475c1fc6" title="looks for last scan time " alt="" coords="821,172,1017,199"/>
+<area shape="rect" id="node17" href="$class_vie_v_s_1_1_network.html#aecb9d69341317dc24e1fd74e13fde620" title="get all stations in this network " alt="" coords="823,71,1014,97"/>
+<area shape="rect" id="node18" href="$class_vie_v_s_1_1_subcon.html#aac4f148c3f566da08f96f0a0ff2e3a02" title="add a single source scan to subcon " alt="" coords="833,324,1004,351"/>
+<area shape="rect" id="node20" href="$class_vie_v_s_1_1_subcon.html#ab27dd29b95edb98ebee61cedefc1b0ab" title="calculates the earliest possible start time for all single source scans in this subcon ..." alt="" coords="549,1391,720,1433"/>
+<area shape="rect" id="node37" href="$class_vie_v_s_1_1_subcon.html#a6f77ec734a1ed7fe161d8b2200a8f7d6" title="updates all azimuths and elevations of all pointing vectors for each single source scan in this subco..." alt="" coords="541,695,728,721"/>
+<area shape="rect" id="node39" href="$class_vie_v_s_1_1_subcon.html#ac303163fd96c167889395b6fdf1586a5" title="constructs all baselines for all single source scans in this subcon " alt="" coords="548,1326,721,1367"/>
+<area shape="rect" id="node42" href="$class_vie_v_s_1_1_subcon.html#a808ccdeb254c9d342f2297a906ee651d" title="calculates all baseline scan duration for all single source scans in this subcon " alt="" coords="531,1457,739,1498"/>
+<area shape="rect" id="node47" href="$class_vie_v_s_1_1_subcon.html#a8c0c88aabbb2928f67a4176e00219cb2" title="calculates all scan duration of all single source scans in this subcon " alt="" coords="541,1807,729,1849"/>
+<area shape="rect" id="node50" href="$class_vie_v_s_1_1_subcon.html#ad7f830269f5b9a96c94155f49720dcff" title="check if there is enough time to reach required endposition for all scans " alt="" coords="531,1730,738,1771"/>
+<area shape="rect" id="node54" href="$class_vie_v_s_1_1_subcon.html#a4231be6e3a499c0ec493cae401149b9a" title="create all subnetting scans from possible single source scans " alt="" coords="526,1873,743,1914"/>
+<area shape="rect" id="node63" href="$class_vie_v_s_1_1_subcon.html#a0795bc3cd80378fc0c660fed7c9ce8ca" title="generate scores for all single source and subnetting scans " alt="" coords="533,1275,736,1301"/>
+<area shape="rect" id="node21" href="$class_vie_v_s_1_1_scan.html#ada9f6d5fa07db2722603c375fab09e43" title="getter for source id " alt="" coords="831,1569,1006,1596"/>
+<area shape="rect" id="node22" href="$class_vie_v_s_1_1_scan.html#acc289cbd286ecf95cc7433f11b663e88" title="getter for number of stations " alt="" coords="842,1956,995,1983"/>
+<area shape="rect" id="node23" href="$class_vie_v_s_1_1_scan.html#aa14d5f36efb1fd84ff839daa46e36a07" title="getter for station id for one index " alt="" coords="831,1737,1006,1764"/>
+<area shape="rect" id="node24" href="$class_vie_v_s_1_1_station.html#aaf8618b23756c485e6553c716ffb66c3" title="getter for parameters " alt="" coords="1111,1380,1281,1407"/>
+<area shape="rect" id="node25" href="$class_vie_v_s_1_1_scan.html#aee92341ccd902f02c92485c4f2781a82" title="adds scan times " alt="" coords="837,1081,1000,1108"/>
+<area shape="rect" id="node26" href="$class_vie_v_s_1_1_station.html#ac041a1a0ef9350cac80af1c9c19dbcd7" title="getter for cable wrap " alt="" coords="819,812,1018,839"/>
+<area shape="rect" id="node27" href="$class_vie_v_s_1_1_abstract_cable_wrap.html#a4bb45d5ff96f1498c4a6797877191088" title="unwraps the current azimuth of pointing vector " alt="" coords="828,863,1009,905"/>
+<area shape="rect" id="node28" href="$class_vie_v_s_1_1_station.html#acd1c632510d183661a524f5fba3302a3" title="getter for current pointing vector " alt="" coords="830,746,1007,787"/>
+<area shape="rect" id="node29" href="$class_vie_v_s_1_1_scan.html#a3323fe560bbad8ed4a17e9bba3012946" title="reference to pointing vector for an index " alt="" coords="815,1133,1022,1174"/>
+<area shape="rect" id="node30" href="$class_vie_v_s_1_1_station.html#a827a5a29f1871dc1ef1fba5a14b088a8" title="calculate slew time between current pointing vector and this pointing vector " alt="" coords="833,543,1005,569"/>
+<area shape="rect" id="node32" href="$class_vie_v_s_1_1_scan.html#ace58be8999b1a3543cde1c047f525b41" title="getter for pointing vector for an index " alt="" coords="833,1890,1004,1931"/>
+<area shape="rect" id="node33" href="$class_vie_v_s_1_1_station.html#a3281cca2c7ec11635b866bc359aeaad8" title="getter for wait times " alt="" coords="1099,1685,1293,1712"/>
+<area shape="rect" id="node34" href="$class_vie_v_s_1_1_scan.html#a7ada94ff94facbae50f3ced0acdcc8ac" title="delete the pointing vector at position idx and all its corresponding times and observations ..." alt="" coords="824,1839,1013,1865"/>
+<area shape="rect" id="node35" href="$class_vie_v_s_1_1_scan.html#a33a7c23e792f7404423836bd1da160a3" title="getter to get all scan times " alt="" coords="839,2108,998,2135"/>
+<area shape="rect" id="node36" href="$class_vie_v_s_1_1_scan.html#ad01f77a888acd0c8debd57ee90c54e06" title="checks if the idle time is not too long " alt="" coords="820,980,1017,1007"/>
+<area shape="rect" id="node31" href="$class_vie_v_s_1_1_lookup_table.html#a2eb3bafad08cb23ea8fe52744ebc9ffd" title="angular distance between two points " alt="" coords="1125,529,1267,570"/>
+<area shape="rect" id="node38" href="$class_vie_v_s_1_1_station.html#aa8114fb495d689483d42bc060f635444" title="checks if a source is visible for this station " alt="" coords="836,492,1001,519"/>
+<area shape="rect" id="node40" href="$class_vie_v_s_1_1_scan.html#a5d28aed2097ac8b40607c66e352469a4" title="constructs all possible observations " alt="" coords="801,593,1037,620"/>
+<area shape="rect" id="node41" href="$class_vie_v_s_1_1_baseline.html#a921fae7128d80abe1314735b74aa3e9f" title="getter for current parameters " alt="" coords="1091,1169,1301,1196"/>
+<area shape="rect" id="node43" href="$class_vie_v_s_1_1_scan.html#aea279ddbd5f248009359c5fd1506bb24" title="calculates the scan durations per observation " alt="" coords="819,1453,1018,1494"/>
+<area shape="rect" id="node44" href="$sofa_8h.html#a718cb20123915d387bc64550d8950019" title="iauGmst82" alt="" coords="1153,1431,1239,1457"/>
+<area shape="rect" id="node45" href="$class_vie_v_s_1_1_station.html#a5293ae14178594e11a5bdf1923a7ae7e" title="getter for equipment information " alt="" coords="1113,1481,1279,1508"/>
+<area shape="rect" id="node46" href="$class_vie_v_s_1_1_equipment.html#a671b90ef30e617e3ea3d94a2bcf4bdd5" title="getter function for antenna SEFD information " alt="" coords="1101,1532,1291,1559"/>
+<area shape="rect" id="node48" href="$class_vie_v_s_1_1_scan.html#afc6aabaf7849f166cf0f0498fa13e1bb" title="calculates the total scan duration per station " alt="" coords="827,2057,1010,2084"/>
+<area shape="rect" id="node49" href="$namespace_vie_v_s_1_1util.html#ab4d40ce9164d54dd82aeb6d68b4e14c6" title="calculate duration between two time points " alt="" coords="1127,2047,1265,2073"/>
+<area shape="rect" id="node51" href="$class_vie_v_s_1_1_station.html#a1eed76735ff9048664e12a923209bc5e" title="getter for antenna " alt="" coords="827,1620,1010,1647"/>
+<area shape="rect" id="node52" href="$class_vie_v_s_1_1_abstract_antenna.html#ab572692fb650c4fda75df90ac7026ee0" title="calculates the slewtime between azimuth and elevation of two pointing vectors " alt="" coords="837,1671,1001,1713"/>
+<area shape="rect" id="node53" href="$class_vie_v_s_1_1_scan_times.html#ac63d909f6b4d2ab30d02c1e8f03fc2b4" title="get observing time " alt="" coords="795,2311,1042,2337"/>
+<area shape="rect" id="node55" href="$class_vie_v_s_1_1_pointing_vector.html#a23bc8fbf2f44afef47aad793352df23d" title="getter for station id " alt="" coords="843,2413,995,2454"/>
+<area shape="rect" id="node56" href="$class_vie_v_s_1_1_scan.html#a524c32eecfb9fb58e6ddb8c5d77738fb" title="finds the index of an station id " alt="" coords="813,2260,1024,2287"/>
+<area shape="rect" id="node57" href="$class_vie_v_s_1_1_scan_times.html#ac6bdeee692e4e49a6132f50dce321cba" title="get total scan time " alt="" coords="809,2209,1028,2236"/>
+<area shape="rect" id="node58" href="$namespace_vie_v_s_1_1util.html#a406017f6514d672a6c62d688485a4855" title="absolute difference between two points " alt="" coords="851,2361,986,2388"/>
+<area shape="rect" id="node59" href="$class_vie_v_s_1_1_scan.html#a79c5dd2d5657892a41d04a5ead6defe9" title="makes a hard copy of a scan with all stations from parameter ids " alt="" coords="837,2159,1000,2185"/>
+<area shape="rect" id="node60" href="$class_vie_v_s_1_1_scan_times.html#ac556a4524412ff0c7ac87a2ad56eec13" title="removes an element " alt="" coords="1104,2098,1288,2139"/>
+<area shape="rect" id="node61" href="$class_vie_v_s_1_1_observation.html#a8c7148a82cf8c120519ca6f4767715b5" title="get first station id " alt="" coords="1127,2163,1265,2205"/>
+<area shape="rect" id="node62" href="$class_vie_v_s_1_1_observation.html#a9466fe53528d92f78336c08a7521ec36" title="get second station id " alt="" coords="1127,2229,1265,2270"/>
+<area shape="rect" id="node65" href="$class_vie_v_s_1_1_subcon.html#a6800526d78a86ee245e3e0d50afe5d5c" title="getter for number of possible single source scans " alt="" coords="543,2003,726,2045"/>
+<area shape="rect" id="node66" href="$class_vie_v_s_1_1_subcon.html#aae2cf28ed33c5afafd1c1806944b9459" title="getter for number of possible subnetting scans " alt="" coords="543,1938,726,1979"/>
+<area shape="rect" id="node68" href="$class_vie_v_s_1_1_subcon.html#abb339f83916120b55343cf8dc2acd0c7" title="rigorousely updates the best scans until the best one is found " alt="" coords="544,2069,725,2096"/>
+<area shape="rect" id="node71" href="$class_vie_v_s_1_1_observation.html#a666304229a44a97342b07740647e8375" title="get baseline id " alt="" coords="566,2121,703,2162"/>
+<area shape="rect" id="node72" href="$class_vie_v_s_1_1_observation.html#ac808c59538a08f4b6b7f6d330981b193" title="get observing time " alt="" coords="566,2186,703,2227"/>
+<area shape="rect" id="node73" href="$class_vie_v_s_1_1_source.html#adeeb38eea325677067ac41f6a34d5f3b" title="updates scan to this source " alt="" coords="557,2252,712,2279"/>
+<area shape="rect" id="node77" href="$class_vie_v_s_1_1_network.html#ad777a7e3f46047cdb19da1d151461086" title="reference to all baselines " alt="" coords="537,2521,733,2548"/>
+</map>

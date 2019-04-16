@@ -1,0 +1,10 @@
+<map id="VieVS::VieVS_Object::setId" name="VieVS::VieVS_Object::setId">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_initializer.html#abfad293d6e62f0a7169ff5c722ee3c05" title="creates all possible sources from sked catalogs " alt="" coords="245,5,363,46"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_scan_times.html#ae7e8cdce075dc2e148913d30d08bf340" title="set new id " alt="" coords="203,71,405,97"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_scheduler.html#af882c30e797e39616e7817a63913b80c" title="transform idle time to observing time " alt="" coords="220,122,388,163"/>
+<area shape="rect" id="node9" href="$class_vie_v_s_1_1_network.html#aa251a2cd43c62febfcdc5863a0bb609d" title="add a new station to the network " alt="" coords="211,188,397,215"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_skd_parser.html#a73d3e3ea04ba448a667f4bc72d4019b4" title="read skd file " alt="" coords="454,12,615,39"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_vie_schedpp.html#a4a08bfdb148b554362453409215233c6" title="start VieSched++ " alt="" coords="664,96,827,123"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main function " alt="" coords="875,96,925,123"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_scheduler.html#aa11cc985b6d47dc44b0fde718a01a0d4" title="main function that starts the scheduling " alt="" coords="455,125,614,152"/>
+</map>

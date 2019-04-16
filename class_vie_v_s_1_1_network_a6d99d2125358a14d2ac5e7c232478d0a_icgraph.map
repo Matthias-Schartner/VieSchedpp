@@ -1,0 +1,7 @@
+<map id="VieVS::Network::refBaseline" name="VieVS::Network::refBaseline">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_initializer.html#a2f6696b033172a2cfd9a51df0406c494" title="initializes all baselines with settings from VieSchedpp.xml file " alt="" coords="273,5,407,46"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_initializer.html#a345996cb08cfbd8db817980aba99fd80" title="applies all multi scheduling parameters to the initializer " alt="" coords="243,70,437,111"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_network.html#a3bae79fe276153275af6aeead864d313" title="reference to baseline between two stations " alt="" coords="245,136,435,163"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_vie_schedpp.html#a4a08bfdb148b554362453409215233c6" title="start VieSched++ " alt="" coords="485,45,648,72"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main function " alt="" coords="696,45,747,72"/>
+</map>

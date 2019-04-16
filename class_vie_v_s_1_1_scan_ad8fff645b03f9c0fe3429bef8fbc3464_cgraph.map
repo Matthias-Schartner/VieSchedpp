@@ -1,0 +1,6 @@
+<map id="VieVS::Scan::createDummyObservations" name="VieVS::Scan::createDummyObservations">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_scan_times.html#a569ab4c08a6c98a83cda3cdc2a1e17e1" title="get observing duration " alt="" coords="255,5,473,46"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_network.html#a362a0570074ebd6d32ad126522a1eea7" title="get baseline id between stations " alt="" coords="282,71,446,97"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_vie_v_s___object.html#ac4fa279c7da1c7af8342c31eb90e28bd" title="object id string " alt="" coords="289,122,439,163"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_scan_times.html#ac63d909f6b4d2ab30d02c1e8f03fc2b4" title="get observing time " alt="" coords="241,188,487,215"/>
+</map>

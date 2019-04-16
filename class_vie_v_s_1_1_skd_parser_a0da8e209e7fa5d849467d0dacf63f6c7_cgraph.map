@@ -1,0 +1,6 @@
+<map id="VieVS::SkdParser::copyScanMembersToObjects" name="VieVS::SkdParser::copyScanMembersToObjects">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_pointing_vector.html#a23bc8fbf2f44afef47aad793352df23d" title="getter for station id " alt="" coords="459,5,611,46"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_network.html#a4d6b3edb233e69ad429f9475b1179a03" title="add new observation to station " alt="" coords="248,37,411,64"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_observation.html#a666304229a44a97342b07740647e8375" title="get baseline id " alt="" coords="261,89,398,130"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_source.html#adeeb38eea325677067ac41f6a34d5f3b" title="updates scan to this source " alt="" coords="252,155,407,181"/>
+</map>

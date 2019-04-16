@@ -1,0 +1,14 @@
+<map id="VieVS::Subcon::checkIfEnoughTimeToReachEndposition" name="VieVS::Subcon::checkIfEnoughTimeToReachEndposition">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_vie_v_s___object.html#ac4fa279c7da1c7af8342c31eb90e28bd" title="object id string " alt="" coords="311,5,460,46"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_scan.html#a33a7c23e792f7404423836bd1da160a3" title="getter to get all scan times " alt="" coords="306,71,465,97"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_scan.html#ada9f6d5fa07db2722603c375fab09e43" title="getter for source id " alt="" coords="298,121,473,148"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_scan.html#acc289cbd286ecf95cc7433f11b663e88" title="getter for number of stations " alt="" coords="309,172,462,199"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_scan.html#aa14d5f36efb1fd84ff839daa46e36a07" title="getter for station id for one index " alt="" coords="298,223,473,249"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_network.html#acb913d06560b50cf06e3f183855e6b7a" title="get station per id " alt="" coords="294,273,477,300"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_station.html#a3281cca2c7ec11635b866bc359aeaad8" title="getter for wait times " alt="" coords="289,324,482,351"/>
+<area shape="rect" id="node9" href="$class_vie_v_s_1_1_scan.html#ace58be8999b1a3543cde1c047f525b41" title="getter for pointing vector for an index " alt="" coords="300,375,471,417"/>
+<area shape="rect" id="node10" href="$class_vie_v_s_1_1_station.html#a1eed76735ff9048664e12a923209bc5e" title="getter for antenna " alt="" coords="294,441,477,468"/>
+<area shape="rect" id="node11" href="$class_vie_v_s_1_1_abstract_antenna.html#ab572692fb650c4fda75df90ac7026ee0" title="calculates the slewtime between azimuth and elevation of two pointing vectors " alt="" coords="303,493,467,534"/>
+<area shape="rect" id="node12" href="$class_vie_v_s_1_1_scan_times.html#ac63d909f6b4d2ab30d02c1e8f03fc2b4" title="get observing time " alt="" coords="262,559,509,585"/>
+<area shape="rect" id="node13" href="$class_vie_v_s_1_1_scan.html#a7ada94ff94facbae50f3ced0acdcc8ac" title="delete the pointing vector at position idx and all its corresponding times and observations ..." alt="" coords="291,609,480,636"/>
+</map>

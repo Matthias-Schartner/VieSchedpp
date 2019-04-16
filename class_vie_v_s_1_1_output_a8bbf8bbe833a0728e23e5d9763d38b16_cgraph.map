@@ -1,0 +1,12 @@
+<map id="VieVS::Output::writeStatistics" name="VieVS::Output::writeStatistics">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_network.html#a88ebeb2401d0aee8222bf59faac94618" title="get number of stations " alt="" coords="275,5,447,32"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_network.html#a5db00415c21170482e5b8254d0120d52" title="get number of baselines " alt="" coords="276,56,447,83"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_pointing_vector.html#a23bc8fbf2f44afef47aad793352df23d" title="getter for station id " alt="" coords="285,107,437,149"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_observation.html#a8c7148a82cf8c120519ca6f4767715b5" title="get first station id " alt="" coords="293,173,430,214"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_observation.html#a9466fe53528d92f78336c08a7521ec36" title="get second station id " alt="" coords="293,238,430,279"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_network.html#a0c14ae91e930b8effa85e24c1947daef" title="ger baseline per id " alt="" coords="265,304,457,331"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_vie_v_s___object.html#a633f6aeefc0eb1e39ed55c734311a6e7" title="get object id " alt="" coords="287,355,436,397"/>
+<area shape="rect" id="node9" href="$class_vie_v_s_1_1_network.html#aecb9d69341317dc24e1fd74e13fde620" title="get all stations in this network " alt="" coords="266,421,457,448"/>
+<area shape="rect" id="node10" href="$class_vie_v_s_1_1_network.html#ae47b3a3f65ef93be9a34f150a042ae20" title="get lookup table for sky coverage id based on station id " alt="" coords="261,473,461,514"/>
+<area shape="rect" id="node11" href="$class_vie_v_s_1_1_network.html#ad1c36de0497400759f4b07479773fa81" title="get sky coverage per id " alt="" coords="251,539,472,565"/>
+</map>

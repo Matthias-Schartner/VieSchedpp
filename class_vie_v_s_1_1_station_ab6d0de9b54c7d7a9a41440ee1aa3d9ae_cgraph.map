@@ -1,0 +1,7 @@
+<map id="VieVS::Station::clearObservations" name="VieVS::Station::clearObservations">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_station.html#a14ffd7f0b1aec5b77082a5c102d760cd" title="this function checks if it is time to change the parameters " alt="" coords="275,5,445,46"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_vie_v_s___object.html#a633f6aeefc0eb1e39ed55c734311a6e7" title="get object id " alt="" coords="285,70,435,111"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_pointing_vector.html#ab5e79ca4cb03bc2ddd1af20dcceaaa10" title="sets time for which azimth and elevation is calculated " alt="" coords="284,135,436,177"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_pointing_vector.html#ad6388388c0ba7f408fc00f195126f9f2" title="sets azimuth " alt="" coords="284,201,436,242"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_pointing_vector.html#a9f1601491831fbab9b396f67a85b9764" title="sets elevation " alt="" coords="284,266,436,307"/>
+</map>

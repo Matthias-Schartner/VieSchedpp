@@ -1,0 +1,39 @@
+<map id="/home/travis/build/TUW&#45;VieVS/VieSchedpp/Misc/HighImpactScanDescriptor.cpp" name="/home/travis/build/TUW&#45;VieVS/VieSchedpp/Misc/HighImpactScanDescriptor.cpp">
+<area shape="rect" id="node2" href="$_high_impact_scan_descriptor_8h.html" title="class HighImpactScanDescriptor " alt="" coords="778,109,968,136"/>
+<area shape="rect" id="node4" href="$_vie_v_s___object_8h.html" title="class VieVS_Object " alt="" coords="3447,723,3561,749"/>
+<area shape="rect" id="node6" href="$_scan_8h.html" title="class Scan " alt="" coords="2615,259,2724,285"/>
+<area shape="rect" id="node58" href="$_subcon_8h.html" title="class Subcon " alt="" coords="3015,184,3137,211"/>
+<area shape="rect" id="node60" href="$_subnetting_8h.html" title="class Subnetting " alt="" coords="347,333,485,360"/>
+<area shape="rect" id="node13" href="$_network_8h.html" title="class Network " alt="" coords="3147,333,3285,360"/>
+<area shape="rect" id="node26" href="$_pointing_vector_8h.html" title="class PointingVector " alt="" coords="5131,648,5307,675"/>
+<area shape="rect" id="node31" href="$_source_8h.html" title="class Source " alt="" coords="2995,565,3124,592"/>
+<area shape="rect" id="node33" href="$_time_system_8h.html" title="class TimeSystem " alt="" coords="1710,648,1860,675"/>
+<area shape="rect" id="node34" href="$util_8h.html" title="utillity functions for VieSched++ " alt="" coords="2403,723,2453,749"/>
+<area shape="rect" id="node44" href="$_observation_8h.html" title="class Observation " alt="" coords="2555,408,2657,435"/>
+<area shape="rect" id="node45" href="$_scan_times_8h.html" title="class ScanTimes " alt="" coords="3548,565,3647,592"/>
+<area shape="rect" id="node46" href="$_weight_factors_8h.html" title="class WeightFactors " alt="" coords="2656,565,2819,592"/>
+<area shape="rect" id="node47" href="$_calibrator_block_8h.html" title="class for calibrator block " alt="" coords="3255,565,3421,592"/>
+<area shape="rect" id="node48" href="$_station_endposition_8h.html" title="class StationEndposition " alt="" coords="2885,408,3072,435"/>
+<area shape="rect" id="node49" href="$_mode_8h.html" title="class Mode " alt="" coords="1165,483,1336,509"/>
+<area shape="rect" id="node14" href="$_station_8h.html" title="class Station " alt="" coords="4157,483,4231,509"/>
+<area shape="rect" id="node40" href="$_baseline_8h.html" title="class Baseline " alt="" coords="3149,565,3231,592"/>
+<area shape="rect" id="node41" href="$_sky_coverage_8h.html" title="class SkyCoverage " alt="" coords="5171,408,5281,435"/>
+<area shape="rect" id="node19" href="$_position_8h.html" title="class Position " alt="" coords="5787,648,5865,675"/>
+<area shape="rect" id="node21" href="$_constants_8h.html" title="constants used in this program " alt="" coords="4783,805,4920,832"/>
+<area shape="rect" id="node22" href="$sofa_8h.html" title="../Misc/sofa.h" alt="" coords="6246,723,6348,749"/>
+<area shape="rect" id="node25" href="$_abstract_antenna_8h.html" title="class AbstractAntenna " alt="" coords="4167,565,4349,592"/>
+<area shape="rect" id="node27" href="$_abstract_cable_wrap_8h.html" title="class AbstractCableWrap " alt="" coords="4821,565,5037,592"/>
+<area shape="rect" id="node28" href="$_equipment_8h.html" title="class Equipment " alt="" coords="4563,565,4695,592"/>
+<area shape="rect" id="node30" href="$_abstract_horizon_mask_8h.html" title="class AbstractHorizonMask " alt="" coords="5264,558,5461,599"/>
+<area shape="rect" id="node37" href="$_vie_v_s___named_object_8h.html" title="class VieVS_NamedObject " alt="" coords="1331,648,1532,675"/>
+<area shape="rect" id="node38" href="$_astronomical_parameters_8h.html" title="class AstronomicalParameters " alt="" coords="4278,648,4497,675"/>
+<area shape="rect" id="node23" href="$sofam_8h.html" title="sofam.h" alt="" coords="6247,805,6316,832"/>
+<area shape="rect" id="node32" href="$_abstract_flux_8h.html" title="class AbstractFlux " alt="" coords="3688,648,3823,675"/>
+<area shape="rect" id="node39" href="$_flags_8h.html" title="class Flags " alt="" coords="3949,648,4059,675"/>
+<area shape="rect" id="node43" href="$_lookup_table_8h.html" title="class LookupTable " alt="" coords="5587,565,5737,592"/>
+<area shape="rect" id="node52" href="$_skd_catalog_reader_8h.html" title="class SkdCatalogReader " alt="" coords="1799,565,1987,592"/>
+<area shape="rect" id="node54" href="$_freq_8h.html" title="class Freq " alt="" coords="1665,565,1723,592"/>
+<area shape="rect" id="node55" href="$_track_8h.html" title="class Track " alt="" coords="859,565,925,592"/>
+<area shape="rect" id="node56" href="$_bbc_8h.html" title="class Bbc " alt="" coords="1245,565,1300,592"/>
+<area shape="rect" id="node57" href="$_if_8h.html" title="class If " alt="" coords="593,565,633,592"/>
+</map>
